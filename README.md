@@ -1,4 +1,4 @@
-![MasterHead](http://tmokk5.co.za/images/Web%20Development.gif)
+!--![MasterHead](http://tmokk5.co.za/images/Web%20Development.gif)--
 <h1 align="center">Hi 👋, I'm raven2x</h1>
 <h3 align="center">A passionate frontend developer from bd</h3>
 
