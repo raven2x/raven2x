@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm raven2x</h1>
 <h3 align="center">A passionate frontend developer from bd</h3>
 
-<img align="right" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<!--img align="right" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif"-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raven2x&label=Profile%20views&color=0e75b6&style=flat" alt="raven2x" /> </p>
 
